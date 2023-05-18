@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=7000&pause=3000&center=true&vCenter=true&multiline=true&width=1000&&lines=A+Passionate+Computer+and+Systems+Engineering+Student+From+Egypt)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elbadry2025&label=Profile%20views&color=0e75b6&style=flat" alt="elbadry2025" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elbadry2025&label=Profile%20views&color=0e75b6&style=flat" alt="elbadry2025" /> </p>
 
 - 📫 How to reach me **es-El-BadriMohamed2025@alexu.edu.eg**
 
